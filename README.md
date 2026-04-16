@@ -65,4 +65,4 @@
 👉 [https://www.sipingseo.com/zh/line-art-edit/ai-sketch-converter](https://www.sipingseo.com/zh/line-art-edit/ai-sketch-converter)
 
 ---
-*版权所有 © SPAI 线稿助理 | 赋能数字创意与传统艺术。*
+*版权所有 © SPAI 线稿助理 | 赋能数字创意与传统艺术*
