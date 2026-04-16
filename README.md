@@ -26,7 +26,7 @@
 | ![人像原图](https://img.sipingseo.com/file/ai-sketch-converter/tFQXvkuk.webp) | ![素描线稿](https://img.sipingseo.com/file/ai-sketch-converter/6FBIKM4q.webp) |
 
 ### 2. 风景照片转建筑速写
-提炼复杂的建筑结构，呈现简洁有力的线条，展现速写艺术的留白魅力。
+提炼复杂的建筑结构，呈现简洁有力的线条，展现速写艺术的留白魅力
 | 原始风景 | AI 速写线稿 |
 | :--- | :--- |
 | ![风景原图](https://img.sipingseo.com/file/ai-sketch-converter/LqOZEqLM.webp) | ![速写线稿](https://img.sipingseo.com/file/ai-sketch-converter/SBAcd6MT.webp) |
