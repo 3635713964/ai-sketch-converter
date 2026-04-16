@@ -32,7 +32,7 @@
 | ![风景原图](https://img.sipingseo.com/file/ai-sketch-converter/LqOZEqLM.webp) | ![速写线稿](https://img.sipingseo.com/file/ai-sketch-converter/SBAcd6MT.webp) |
 
 ### 3. 萌宠照片转漫画
-突出宠物特征（如眼睛），线条圆润可爱，一键生成二次元插画素材。
+突出宠物特征（如眼睛），线条圆润可爱，一键生成二次元插画素材
 | 原始宠物 | AI 漫画线稿 |
 | :--- | :--- |
 | ![宠物原图](https://img.sipingseo.com/file/ai-sketch-converter/7pydj7nW.webp) | ![漫画线稿](https://img.sipingseo.com/file/ai-sketch-converter/7UOggQlx.webp) |
