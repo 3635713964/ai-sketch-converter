@@ -20,7 +20,7 @@
 ## 📸 效果展示 (Before & After)
 
 ### 1. 人像照片转素描
-保留五官比例与神态，线条细腻且富有层次感，是极佳的临摹底稿。
+保留五官比例与神态，线条细腻且富有层次感，是极佳的临摹底稿
 | 原始照片 | AI 素描线稿 |
 | :--- | :--- |
 | ![人像原图](https://img.sipingseo.com/file/ai-sketch-converter/tFQXvkuk.webp) | ![素描线稿](https://img.sipingseo.com/file/ai-sketch-converter/6FBIKM4q.webp) |
